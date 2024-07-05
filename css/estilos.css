@@ -1,0 +1,22 @@
+/* Imagen para la galeria */
+img.galeria {
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.collapse-show {
+  background-color: #4d455d;
+}
+
+img.mesas {
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+img.armarios {
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}

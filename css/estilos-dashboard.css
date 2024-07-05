@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    background: linear-gradient(180deg,#176B87,#143F6B);
+}
+nav{
+    background: linear-gradient(180deg,#f57e7e ,#F55353);
+}nav a:hover{
+    background-color: rgb(148, 148, 148);
+    border-radius: 10px;
+}
